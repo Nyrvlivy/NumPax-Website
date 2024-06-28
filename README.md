@@ -100,6 +100,7 @@ Figure 1 - Mobile Prototype on iPhone 15 Pro
 Figure 2 - Desktop Prototype
 <br>
 </div>
+<br>
 
 - Responsive design ensures an optimal user experience across all devices, enhancing accessibility and engagement.
 
