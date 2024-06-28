@@ -61,7 +61,7 @@ See a sample of how the application looks:
     open index.html
 ```
 
-- [ ] Alternatively, you can view the deployed version [here]()
+- [ ] Alternatively, you can view the deployed version [here](https://nyrvlivy.github.io/NumPax-Website/)
 - [ ] And enjoy it! 🎊👏
 
 
