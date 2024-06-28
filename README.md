@@ -115,7 +115,7 @@ Gif 2 - True Responsiveness of the Website
 
 ## Contributing
 
-Feel free to fork this project and contribute your ideas and improvements. Please adhere to the [Bootstrap Style Guide](hthttps://getbootstrap.com/) for code consistency.
+Feel free to fork this project and contribute your ideas and improvements. Please adhere to the [Bootstrap Style Guide](https://getbootstrap.com/) for code consistency.
 
 ##
 
