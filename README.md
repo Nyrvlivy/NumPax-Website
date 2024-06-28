@@ -38,6 +38,7 @@ NumPax is a fintech web application designed to help users not only manage their
 See a sample of how the application looks:
 <div align="center">
   <img alt="NumPax Website Gif" src="./.github/assets/images/numpax-overview-gif.gif">
+  <br>  
   Gif 1 - Overview of the NumPax Login Area
   <br><br>
   For more information, clone repository and fun! 🥰😉
