@@ -29,7 +29,10 @@
 
 ##
 
-**EASTER EGG: If you enter valid login data (any data you would expect for a login, haha), you will be redirected to the under-construction home page 👷 🚧**
+<div align="center">
+  <strong> 🥚 EASTER EGG 🐰 <br>
+If you enter valid login data (any data you would expect for a login, haha), you will be redirected to the under-construction home page 👷 🚧<strong>
+</div>
 
 ##
 
