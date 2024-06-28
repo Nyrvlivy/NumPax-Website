@@ -125,6 +125,7 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
 ##
 
 <div align="center">
+  
 ### ⚠️ ATTENTION ⚠️
 
 **This is an educational project. Your help is welcome, but only after I complete my individual assignments.****
