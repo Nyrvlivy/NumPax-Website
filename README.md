@@ -29,6 +29,10 @@
 
 ##
 
+**EASTER EGG: If you enter valid login data (any data you would expect for a login, haha), you will be redirected to the under-construction home page 👷 🚧**
+
+##
+
 ## Project Description
 
 NumPax is a fintech web application designed to help users not only manage their personal finances effectively and accessibly but also to enhance their financial knowledge and skills. Built with popular and recognized technologies, NumPax integrates all aspects of a user's financial life — from budgeting to investments — into a single platform. It also provides a solid educational foundation, enabling users to make more informed choices and develop better long-term financial health, all within an intuitive and accessible system.
