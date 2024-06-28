@@ -69,7 +69,7 @@ See a sample of how the application looks:
 ## To Install Custom Fonts (optional*):
 The project uses the SF Pro font, which is free to download. 
 
-> You can download it from this [link](https://developer.apple.com/fonts/). 
+> You can download it [here](https://developer.apple.com/fonts/). 
 
 After downloading, install the font on your machine and restart your project to see the changes.
 
